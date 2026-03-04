@@ -1,0 +1,56 @@
+{
+glyphname = Dcaron;
+kernLeft = vertical;
+kernRight = vertical;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = D;
+},
+{
+ref = caroncomb;
+},
+{
+closed = 1;
+nodes = (
+(300,600,l),
+(300,500,l),
+(200,500,l),
+(200,600,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(600,500,l),
+(600,400,l),
+(500,400,l),
+(500,500,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(500,400,l),
+(500,300,l),
+(400,300,l),
+(400,400,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(700,600,l),
+(700,500,l),
+(600,500,l),
+(600,600,l)
+);
+}
+);
+width = 900;
+}
+);
+unicode = 270;
+}

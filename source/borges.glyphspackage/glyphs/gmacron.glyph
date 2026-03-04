@@ -1,0 +1,35 @@
+{
+glyphname = gmacron;
+kernLeft = horizontal;
+kernRight = horizontal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g;
+},
+{
+closed = 1;
+nodes = (
+(400,500,l),
+(400,400,l),
+(300,400,l),
+(300,500,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(800,500,l),
+(800,400,l),
+(700,400,l),
+(700,500,l)
+);
+}
+);
+width = 900;
+}
+);
+unicode = 7713;
+}

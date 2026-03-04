@@ -1,0 +1,20 @@
+{
+glyphname = Aogonek;
+kernLeft = vertical;
+kernRight = vertical;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Acomb.alt;
+},
+{
+ref = ogonekcomb;
+}
+);
+width = 900;
+}
+);
+unicode = 260;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = imacron;
+kernLeft = horizontal;
+kernRight = horizontal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = i;
+},
+{
+closed = 1;
+nodes = (
+(500,400,l),
+(500,300,l),
+(400,300,l),
+(400,400,l)
+);
+}
+);
+width = 900;
+}
+);
+unicode = 299;
+}

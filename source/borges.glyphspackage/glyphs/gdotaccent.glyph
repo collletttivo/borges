@@ -1,0 +1,35 @@
+{
+glyphname = gdotaccent;
+kernLeft = horizontal;
+kernRight = horizontal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g;
+},
+{
+closed = 1;
+nodes = (
+(500,500,l),
+(500,400,l),
+(400,400,l),
+(400,500,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(700,500,l),
+(700,400,l),
+(600,400,l),
+(600,500,l)
+);
+}
+);
+width = 900;
+}
+);
+unicode = 289;
+}

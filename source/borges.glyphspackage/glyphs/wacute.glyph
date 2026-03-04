@@ -1,0 +1,26 @@
+{
+glyphname = wacute;
+kernLeft = horizontal;
+kernRight = horizontal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = w;
+},
+{
+closed = 1;
+nodes = (
+(700,300,l),
+(700,200,l),
+(600,200,l),
+(600,300,l)
+);
+}
+);
+width = 900;
+}
+);
+unicode = 7811;
+}

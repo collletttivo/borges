@@ -1,0 +1,17 @@
+{
+glyphname = nbspace;
+kernLeft = vertical;
+kernRight = vertical;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = space;
+}
+);
+width = 900;
+}
+);
+unicode = 160;
+}

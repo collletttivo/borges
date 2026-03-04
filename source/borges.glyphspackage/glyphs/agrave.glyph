@@ -1,0 +1,12 @@
+{
+glyphname = agrave;
+kernLeft = horizontal;
+kernRight = horizontal;
+layers = (
+{
+layerId = m01;
+width = 900;
+}
+);
+unicode = 224;
+}

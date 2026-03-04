@@ -1,0 +1,17 @@
+{
+glyphname = Ygrave;
+kernLeft = vertical;
+kernRight = vertical;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 900;
+}
+);
+unicode = 7922;
+}

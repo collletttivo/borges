@@ -1,0 +1,61 @@
+{
+glyphname = caroncomb;
+kernLeft = vertical;
+kernRight = vertical;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (450,500);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (100,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (700,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (500,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (600,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,600);
+ref = pixel;
+}
+);
+vertWidth = 0;
+width = 900;
+}
+);
+unicode = 780;
+}

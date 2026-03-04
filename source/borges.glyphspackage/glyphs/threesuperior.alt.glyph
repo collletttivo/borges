@@ -1,0 +1,16 @@
+{
+glyphname = threesuperior.alt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = three.alt;
+}
+);
+width = 900;
+}
+);
+metricLeft = three;
+metricRight = three;
+}

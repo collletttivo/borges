@@ -1,0 +1,26 @@
+{
+color = 3;
+glyphname = micro.alt;
+kernLeft = horizontal;
+kernRight = horizontal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+closed = 1;
+nodes = (
+(400,100,l),
+(400,0,l),
+(300,0,l),
+(300,100,l)
+);
+}
+);
+width = 900;
+}
+);
+}

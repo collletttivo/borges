@@ -1,0 +1,150 @@
+{
+glyphname = Scaron;
+kernLeft = vertical;
+kernRight = vertical;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+alignment = -1;
+pos = (100,-200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,-200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,-200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,-200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (500,-200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (600,-200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (700,-200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (600,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (600,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (600,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (600,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (600,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (500,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,200);
+ref = pixel;
+},
+{
+closed = 1;
+nodes = (
+(400,500,l),
+(500,500,l),
+(500,600,l),
+(400,600,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(300,600,l),
+(300,500,l),
+(200,500,l),
+(200,600,l)
+);
+}
+);
+width = 900;
+}
+);
+unicode = 352;
+}

@@ -1,0 +1,34 @@
+{
+glyphname = quotedblleft.alt;
+kernLeft = horizontal;
+kernRight = horizontal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = quotedblbase.alt;
+},
+{
+closed = 1;
+nodes = (
+(100,300,l),
+(100,200,l),
+(0,200,l),
+(0,300,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(300,300,l),
+(300,200,l),
+(200,200,l),
+(200,300,l)
+);
+}
+);
+width = 900;
+}
+);
+}

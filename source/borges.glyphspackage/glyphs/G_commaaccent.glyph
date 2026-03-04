@@ -1,0 +1,20 @@
+{
+glyphname = Gcommaaccent;
+kernLeft = vertical;
+kernRight = vertical;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "G-comb.alt";
+},
+{
+ref = commaaccentcomb;
+}
+);
+width = 900;
+}
+);
+unicode = 290;
+}

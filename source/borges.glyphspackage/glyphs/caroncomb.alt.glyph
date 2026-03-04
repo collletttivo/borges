@@ -1,0 +1,45 @@
+{
+glyphname = caroncomb.alt;
+kernLeft = horizontal;
+kernRight = horizontal;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (350,500);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (500,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (600,600);
+ref = pixel;
+}
+);
+vertWidth = 0;
+width = 900;
+}
+);
+}

@@ -1,0 +1,20 @@
+{
+glyphname = Omacron;
+kernLeft = vertical;
+kernRight = vertical;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "O-comb";
+},
+{
+ref = macroncomb;
+}
+);
+width = 900;
+}
+);
+unicode = 332;
+}

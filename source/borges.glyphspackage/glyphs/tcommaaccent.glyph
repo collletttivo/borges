@@ -1,0 +1,26 @@
+{
+glyphname = tcommaaccent;
+kernLeft = horizontal;
+kernRight = horizontal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = t;
+},
+{
+closed = 1;
+nodes = (
+(200,100,l),
+(200,0,l),
+(100,0,l),
+(100,100,l)
+);
+}
+);
+width = 900;
+}
+);
+unicode = 539;
+}

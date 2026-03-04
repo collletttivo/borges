@@ -1,0 +1,14 @@
+{
+glyphname = ordfeminine.alt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+}
+);
+width = 900;
+}
+);
+}

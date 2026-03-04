@@ -1,0 +1,21 @@
+{
+export = 0;
+glyphname = pixel;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(100,0,l),
+(100,100,l),
+(0,100,l),
+(0,0,l)
+);
+}
+);
+width = 100;
+}
+);
+}

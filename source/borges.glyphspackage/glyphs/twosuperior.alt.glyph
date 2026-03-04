@@ -1,0 +1,16 @@
+{
+glyphname = twosuperior.alt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = two.alt;
+}
+);
+width = 900;
+}
+);
+metricLeft = two;
+metricRight = two;
+}

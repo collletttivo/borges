@@ -1,0 +1,35 @@
+{
+glyphname = udieresis;
+kernLeft = horizontal;
+kernRight = horizontal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+closed = 1;
+nodes = (
+(300,400,l),
+(300,300,l),
+(200,300,l),
+(200,400,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(700,400,l),
+(700,300,l),
+(600,300,l),
+(600,400,l)
+);
+}
+);
+width = 900;
+}
+);
+unicode = 252;
+}

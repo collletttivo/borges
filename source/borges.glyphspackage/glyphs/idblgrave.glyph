@@ -1,0 +1,26 @@
+{
+glyphname = idblgrave;
+kernLeft = horizontal;
+kernRight = horizontal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = i;
+},
+{
+closed = 1;
+nodes = (
+(400,500,l),
+(400,400,l),
+(300,400,l),
+(300,500,l)
+);
+}
+);
+width = 900;
+}
+);
+unicode = 521;
+}

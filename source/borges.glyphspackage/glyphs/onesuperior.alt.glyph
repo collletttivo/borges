@@ -1,0 +1,16 @@
+{
+glyphname = onesuperior.alt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = one.alt;
+}
+);
+width = 900;
+}
+);
+metricLeft = one;
+metricRight = one;
+}

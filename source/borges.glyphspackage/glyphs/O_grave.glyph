@@ -1,0 +1,20 @@
+{
+glyphname = Ograve;
+kernLeft = vertical;
+kernRight = vertical;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = gravecomb;
+},
+{
+ref = "O-comb";
+}
+);
+width = 900;
+}
+);
+unicode = 210;
+}

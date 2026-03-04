@@ -1,0 +1,16 @@
+{
+glyphname = nbspace.alt;
+kernLeft = horizontal;
+kernRight = horizontal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = space.alt;
+}
+);
+width = 900;
+}
+);
+}

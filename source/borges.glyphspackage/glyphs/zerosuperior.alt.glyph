@@ -1,0 +1,16 @@
+{
+glyphname = zerosuperior.alt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = zero.alt;
+}
+);
+width = 900;
+}
+);
+metricLeft = zero;
+metricRight = zero;
+}

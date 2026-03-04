@@ -1,0 +1,14 @@
+{
+glyphname = ordmasculine.alt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+}
+);
+width = 900;
+}
+);
+}

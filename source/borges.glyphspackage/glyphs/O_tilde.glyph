@@ -1,0 +1,20 @@
+{
+glyphname = Otilde;
+kernLeft = vertical;
+kernRight = vertical;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "O-comb";
+},
+{
+ref = tildecomb;
+}
+);
+width = 900;
+}
+);
+unicode = 213;
+}

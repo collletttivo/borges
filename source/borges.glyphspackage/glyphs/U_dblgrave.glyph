@@ -1,0 +1,20 @@
+{
+glyphname = Udblgrave;
+kernLeft = vertical;
+kernRight = vertical;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "U-comb";
+},
+{
+ref = gravecomb;
+}
+);
+width = 900;
+}
+);
+unicode = 532;
+}
