@@ -561,11 +561,29 @@ tag = locl;
 },
 {
 automatic = 1;
+code = "sub zero by zerosuperior;
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+";
+disabled = 1;
+tag = sups;
+},
+{
+automatic = 1;
 code = "sub one slash four by onequarter;
 sub one slash two by onehalf;
 sub three slash four by threequarters;
 ";
 tag = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+";
+disabled = 1;
+tag = ordn;
 }
 );
 fontMaster = (
@@ -700,7 +718,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 by Matteo Bertin. All rights reserved";
+value = "Copyright © 2025 by Matteo Bertin. All rights reserved";
 }
 );
 },
@@ -722,7 +740,7 @@ key = licenses;
 values = (
 {
 language = ENG;
-value = "Copyright 2025, Matteo Bertin (https://www.matteobertin.it/)
+value = "Copyright © 2025, Matteo Bertin (https://www.matteobertin.it/)
 «Borges»
 «Borges — Square pixel»
 
@@ -824,10 +842,6 @@ OTHER DEALINGS IN THE FONT SOFTWARE.";
 {
 key = licenseURL;
 value = "https://openfontlicense.org/";
-},
-{
-key = vendorID;
-value = CLT;
 }
 );
 settings = {
@@ -844,6 +858,6 @@ name = verticale;
 }
 );
 unitsPerEm = 900;
-versionMajor = 1;
-versionMinor = 0;
+versionMajor = 0;
+versionMinor = 1;
 }

@@ -1,4 +1,5 @@
 {
+color = 9;
 glyphname = endash.alt;
 kernLeft = horizontal;
 kernRight = horizontal;
@@ -7,128 +8,7 @@ layers = (
 layerId = m01;
 shapes = (
 {
-alignment = -1;
-pos = (600,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (300,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (200,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (100,0);
-ref = pixel;
-},
-{
-alignment = -1;
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (0,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (100,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (200,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (300,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (400,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (500,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (600,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (800,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (0,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (100,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (200,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (300,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (500,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (600,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (700,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (800,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (700,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (800,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (700,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (500,0);
-ref = pixel;
+ref = hyphen.alt;
 }
 );
 vertWidth = 0;
