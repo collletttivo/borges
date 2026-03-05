@@ -3,9 +3,8 @@
 **Matteo Bertin**  
 *SIL Open Font License, 1.1*
 
-Asap is an Open Source Arial alternative.
-
-To contribute to the project contact [Matteo Bertin](https://www.collletttivo.it).
+Born from the idea of turning writing into a pattern, Borges is an attempt to answer the question if it is possible to capture in a typeface the image of the labyrinth. Readability is deliberately put aside in favor of creating a disorienting effect.
+To contribute to the project contact [Matteo Bertin](https://www.matteobertin.it).
 
 ### Designers
 
@@ -13,7 +12,7 @@ To contribute to the project contact [Matteo Bertin](https://www.collletttivo.it
 
 ### License
 
-Copyright © 2023, Matteo Bertin (https://www.collletttivo.it/ | collletttivo@gmail.com)
+Copyright © 2025, Matteo Bertin (https://www.matteobertin.it/ | info@matteobertin.it)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -29,3 +28,31 @@ Acheron, Achinese, Achuar-Shiwiar, Afar, Afrikaans, Aguaruna, Alekano, Algonquin
 * Basic Latin		U+0000-U+007F	
 * Latin-1 Supplement	U+0080-U+00FF	
 * Latin Extended-A	U+0100-U+017F	
+
+### Usage Notes
+
+Borges is designed to work across any software and environment, giving you the possibility to draw your own labyrinths simply by typing. 
+
+# UPPERCASE AND LOWERCASE
+* While you type, the glyphs automatically alternate between their vertical and horizontal versions, ensuring a coherent and correct visual texture.
+*The only exception concerns the line breaks: the software cannot automatically manage the alternation across lines. You will need to manually set the first letter of each new line in the correct style.
+* Example: if the first line starts with a vertical (uppercase) glyph, the second line should start with a horizontal (lowercase) one, the third again vertical, the fourth horizontal, and so on.
+
+# LINE SPACING
+* Line spacing is crucial to achieve the compact texture effect.
+* At this stage, the only recurring issue concerns how line spacing is handled in different programs. Follow the guidelines below for tested software:
+
+TextEdit & Microsoft® Word
+* Default settings (line spacing 1.0) ensure correct alignment.
+* In some cases, Word previews may cut off the lower part of uppercase letters.
+* This is only a preview issue: exported PDFs and prints are unaffected.
+
+Adobe Creative Suite
+* Set line spacing to 0.89× the font size (e.g., 72/64 pt).
+* In After Effects, space glyphs issues may appear. Tip: paste text from another app
+
+Figma
+* Set line spacing to 88.9% for correct alignment.
+
+Cavalry
+* Default settings ensure correct line spacing.
