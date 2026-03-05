@@ -718,7 +718,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright © 2025 by Matteo Bertin. All rights reserved";
+value = "Copyright 2025 by Matteo Bertin. All rights reserved";
 }
 );
 },
@@ -740,7 +740,7 @@ key = licenses;
 values = (
 {
 language = ENG;
-value = "Copyright © 2025, Matteo Bertin (https://www.matteobertin.it/)
+value = "Copyright 2025, Matteo Bertin (https://www.matteobertin.it/)
 «Borges»
 «Borges — Square pixel»
 
@@ -858,6 +858,6 @@ name = verticale;
 }
 );
 unitsPerEm = 900;
-versionMajor = 0;
-versionMinor = 1;
+versionMajor = 1;
+versionMinor = 0;
 }

@@ -1,5 +1,7 @@
 {
 glyphname = ellipsis.alt;
+kernLeft = horizontal;
+kernRight = horizontal;
 layers = (
 {
 layerId = m01;
