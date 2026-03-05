@@ -33,26 +33,26 @@ Acheron, Achinese, Achuar-Shiwiar, Afar, Afrikaans, Aguaruna, Alekano, Algonquin
 
 Borges is designed to work across any software and environment, giving you the possibility to draw your own labyrinths simply by typing. 
 
-# UPPERCASE AND LOWERCASE
+#### Uppercase And Lowercase
 * While you type, the glyphs automatically alternate between their vertical and horizontal versions, ensuring a coherent and correct visual texture.
 *The only exception concerns the line breaks: the software cannot automatically manage the alternation across lines. You will need to manually set the first letter of each new line in the correct style.
 * Example: if the first line starts with a vertical (uppercase) glyph, the second line should start with a horizontal (lowercase) one, the third again vertical, the fourth horizontal, and so on.
 
-# LINE SPACING
+#### Line Spacing
 * Line spacing is crucial to achieve the compact texture effect.
 * At this stage, the only recurring issue concerns how line spacing is handled in different programs. Follow the guidelines below for tested software:
 
-TextEdit & Microsoft® Word
+##### TextEdit & Microsoft® Word
 * Default settings (line spacing 1.0) ensure correct alignment.
 * In some cases, Word previews may cut off the lower part of uppercase letters.
 * This is only a preview issue: exported PDFs and prints are unaffected.
 
-Adobe Creative Suite
+##### Adobe Creative Suite
 * Set line spacing to 0.89× the font size (e.g., 72/64 pt).
 * In After Effects, space glyphs issues may appear. Tip: paste text from another app
 
-Figma
+##### Figma
 * Set line spacing to 88.9% for correct alignment.
 
-Cavalry
+##### Cavalry
 * Default settings ensure correct line spacing.
